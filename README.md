@@ -1,0 +1,1 @@
+This project is focused on training my skills in basic HTML, including HTML-boilerplate, headings, links, images, etc.
